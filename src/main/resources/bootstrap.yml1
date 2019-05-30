@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+     #uri: http://user:seehow123@127.0.0.1:7777
+     uri: http://192.168.31.245:7777
+     profile: proe
+     name: seehow
